@@ -13,7 +13,7 @@ jogos = ["League of Legends", "Counter-Strike: Global Offensive", "Hentai Hero",
          "Tony Hawk's Pro Skater 5", "Rocket League", "Dota 2", "Warframe"]
 
 
-TOKEN = "NzQ4MTgyNDcxNjk0MDkwMjgx.X0ZtOQ.YPzhYY4AMQTMfhW0kXN3taVrVwE"
+TOKEN = 
 
 bot = commands.Bot(command_prefix="")
 
