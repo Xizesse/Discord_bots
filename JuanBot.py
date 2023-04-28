@@ -16,7 +16,7 @@ jogos = ["League of Legends", "Counter-Strike: Global Offensive", "Hentai Hero",
          "Tony Hawk's Pro Skater 5", "Rocket League", "Dota 2", "Warframe", "CyberBonk 2069"]
 queues = {}
 
-TOKEN = "Nzg5ODI5MzMxNjgxMTQ4OTQw.X93v4g.Nttp0rRleM2GDGNvgS03e8I5GpM"
+TOKEN = ""
 
 bot = commands.Bot(command_prefix="")
 bot.remove_command('help')
